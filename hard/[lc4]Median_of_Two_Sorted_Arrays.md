@@ -1,3 +1,8 @@
+<!--
+ * @Date: 2022-07-25 18:01:59
+ * @LastEditors: zhangjiuchao zhangjiuchao@bytedance.com
+ * @LastEditTime: 2022-07-27 09:11:26
+-->
 # 寻找两个正序数组的中位数
 [https://leetcode.com/problems/median-of-two-sorted-arrays/](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 # 题目描述
@@ -34,7 +39,7 @@ nums2.length == n
 
 来源：[https://www.youtube.com/watch?v=KB9IcSCDQ9k](https://www.youtube.com/watch?v=KB9IcSCDQ9k)
 
-![](images/lc4-overview.png)
+![](../images/lc4-overview.png)
 
 假设n1=size(nums1),n2=size(nums2),且n1<n2
 
