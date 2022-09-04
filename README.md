@@ -1,7 +1,7 @@
 <!--
  * @Date: 2022-07-25 20:42:52
  * @LastEditors: zhangjiuchao zhangjiuchao@bytedance.com
- * @LastEditTime: 2022-08-28 23:14:55
+ * @LastEditTime: 2022-08-28 23:16:31
 -->
 # leetcodeNotes
 leetcode刷题记录
@@ -12,7 +12,7 @@ leetcode刷题记录
 
 - [并查集](./algorithm/Union_Find_Set.md)
 
-- [拓扑排序](./algorithm/-Topological_Sort.md)
+- [拓扑排序](./algorithm/Topological_Sort.md)
 
 - [动态规划](./algorithm/Dynamic_Programing.md)
 
